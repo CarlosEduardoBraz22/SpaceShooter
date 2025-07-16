@@ -2,8 +2,6 @@
 
 Um jogo 2D retrô inspirado nos clássicos dos anos 80, totalmente desenvolvido em **Python** com a biblioteca **Pygame** — sem utilizar nenhuma imagem externa, apenas **formas geométricas desenhadas via código**!
 
-![Gameplay Preview](#) <!-- você pode colocar um gif/imagem aqui depois -->
-
 ---
 
 ## 🎮 Funcionalidades
